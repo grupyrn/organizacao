@@ -1,4 +1,4 @@
-# Organização GruPy-RN
+# Organização GruPy-RN 🐍
 
 Bem-vindos ao repositório de organização do GruPy-RN, a comunidade Python no Rio Grande do Norte. Esse espaço é dedicado a armazenar e documentar [as tarefas da organização](https://github.com/orgs/grupyrn/projects), tornando o processo mais aberto e acessível a todos.
 
